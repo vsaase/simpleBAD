@@ -1,0 +1,9 @@
+*.h5
+reports
+./*.nii
+__pycache__
+data_anonymized
+patho*.csv
+healthy*.csv
+patho_nii
+segment_patho
